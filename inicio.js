@@ -11,4 +11,28 @@ los support It ayudan a que esta brecha digital sea mas pequeña por que introdu
 ¿que hacen los suppport it dia a dia?
 se puede describir el trabajo diario como manejo,instalacion,mantenimiento,solucionar problemas y configuracion.
 
+Las computadoras se crearon a partuir de tarjetas perforadas
+La informatica comenzo a evolucionar a partir de la segunda guerra con la criptografia y alan turing,pasaron los años por muchos cambias de hardware y software de maquinas que podian ocupar dos oficinas completas a un computador poderoso en nuestros bolsillos.
+
+//computer languaje
+
+sistema binario
+es el lenguaje mas bajo de maquina
+
+8 bits: 1 byte 
+character encoding
+es asignar un variable binaria a caracteres que podamos entender. ACCI representa el diccionario en ingles.  
+UTF-8 basado en unicoe que le da establidad
+con esto podemos representar simbolos letras numeros hasta emojis.
+RGB
+froma de representar colores.
+//Binary
+dos estados 0 1 
+dos estados posibles que se vuelven mas comlicados cuando los juntas en bit , bytes.
+cuando tenemos 1 signica que pasa electriv¡cidad y 0 no.
+puerdas logicas no ayudadn a dar sebtido a estos datos.
+
+contar en binario:
+el maximo numero que podemos obtener es 255 en 1 bytes
+128,64,32,16,8,4,2,1
 */
